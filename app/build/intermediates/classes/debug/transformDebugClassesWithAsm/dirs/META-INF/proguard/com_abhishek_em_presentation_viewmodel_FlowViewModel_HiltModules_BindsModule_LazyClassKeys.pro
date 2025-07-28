@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.abhishek.em.presentation.viewmodel.FlowViewModel

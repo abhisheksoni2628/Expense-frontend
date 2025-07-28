@@ -1,0 +1,61 @@
+com.abhishek.em.app-material-ripple-release-0 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\03ff1b002a769d80e5e1fd19a94b690d\transformed\material-ripple-release\res
+com.abhishek.em.app-lifecycle-viewmodel-savedstate-release-1 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\0984cc7340bb764b730e8edddced23c4\transformed\lifecycle-viewmodel-savedstate-release\res
+com.abhishek.em.app-foundation-layout-release-2 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\0abc3055fabaa2aebd5e2779518ed9d9\transformed\foundation-layout-release\res
+com.abhishek.em.app-profileinstaller-1.4.0-3 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\0e3cfeba41f0ce005ae28b0b0b2a356b\transformed\profileinstaller-1.4.0\res
+com.abhishek.em.app-fragment-1.5.1-4 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\14a84c877457540f70abf4a52371f266\transformed\fragment-1.5.1\res
+com.abhishek.em.app-activity-compose-1.10.1-5 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\1d28bb01ea1f1ffd4bcc4f61c4e41652\transformed\activity-compose-1.10.1\res
+com.abhishek.em.app-core-1.16.0-6 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\1d86b42162dc6982c03af87de6828d25\transformed\core-1.16.0\res
+com.abhishek.em.app-hilt-navigation-1.2.0-7 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\20fc2133108657769789bcc76ebb85cd\transformed\hilt-navigation-1.2.0\res
+com.abhishek.em.app-ui-release-8 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\23038d272f262556ccfd675d9f7ada26\transformed\ui-release\res
+com.abhishek.em.app-sqlite-release-9 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\2554bc6260d22e38bd757b263458fdbf\transformed\sqlite-release\res
+com.abhishek.em.app-sqlite-framework-release-10 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\2650e8dae5f73eb130ff685e7a7ef227\transformed\sqlite-framework-release\res
+com.abhishek.em.app-lifecycle-livedata-core-ktx-2.9.1-11 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\283b39cef0983de1eb0149a3b08fa5dc\transformed\lifecycle-livedata-core-ktx-2.9.1\res
+com.abhishek.em.app-material3-release-12 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\2b0b7dad01f0e2d655274ff657f61359\transformed\material3-release\res
+com.abhishek.em.app-room-runtime-release-13 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\2f4bf32445e37c999cb5603339fc74b2\transformed\room-runtime-release\res
+com.abhishek.em.app-savedstate-compose-release-14 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\30310c5d7b54eae15fd59c5d163152f8\transformed\savedstate-compose-release\res
+com.abhishek.em.app-core-runtime-2.2.0-15 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\30c8dc51dc6b8ede8d7960fa9a19ce12\transformed\core-runtime-2.2.0\res
+com.abhishek.em.app-navigation-runtime-release-16 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\33e859735827339c44ab8d7b479377ea\transformed\navigation-runtime-release\res
+com.abhishek.em.app-emoji2-1.4.0-17 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\390d12abcd4bc9e99a909f9d1bcba5b9\transformed\emoji2-1.4.0\res
+com.abhishek.em.app-animation-core-release-18 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\3b555fbca2d75730ea987f1a54bf7931\transformed\animation-core-release\res
+com.abhishek.em.app-activity-1.10.1-19 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\3cc6208cfee6743c1a5e001df05b9248\transformed\activity-1.10.1\res
+com.abhishek.em.app-lifecycle-viewmodel-compose-release-20 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\3dd5287700325e2dcc904735ca5d4004\transformed\lifecycle-viewmodel-compose-release\res
+com.abhishek.em.app-material-release-21 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\3fee97ebde319a5e90994ebd2684d4ec\transformed\material-release\res
+com.abhishek.em.app-lifecycle-viewmodel-release-22 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\44d229b070ded371518a6b65d9c0857f\transformed\lifecycle-viewmodel-release\res
+com.abhishek.em.app-ui-graphics-release-23 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\4cc17f168a481e35983b519e3eed588f\transformed\ui-graphics-release\res
+com.abhishek.em.app-core-viewtree-1.0.0-24 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\58226221649fc4cbec07ff89574bbcd8\transformed\core-viewtree-1.0.0\res
+com.abhishek.em.app-ui-util-release-25 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\5cbaf4e6f159817659d5ce6b644b79e8\transformed\ui-util-release\res
+com.abhishek.em.app-material-icons-core-release-26 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\6c5b7541e56eadabd8d595829965df68\transformed\material-icons-core-release\res
+com.abhishek.em.app-animation-release-27 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\745e8babaaf05405e7ae0cc5125007fb\transformed\animation-release\res
+com.abhishek.em.app-savedstate-ktx-1.3.0-28 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\78c4f9b9926c9f35e3c6ab7689cd455e\transformed\savedstate-ktx-1.3.0\res
+com.abhishek.em.app-lifecycle-runtime-compose-release-29 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\83f136053bc80085d8e902f21edf11c9\transformed\lifecycle-runtime-compose-release\res
+com.abhishek.em.app-runtime-saveable-release-30 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\91291d795ebb70767d6284da97f63eca\transformed\runtime-saveable-release\res
+com.abhishek.em.app-core-ktx-1.16.0-31 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\9b7c46de4ca987a43aa70f65b28f88e5\transformed\core-ktx-1.16.0\res
+com.abhishek.em.app-lifecycle-runtime-release-32 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\a29cde6c50d7f4d7ea1990a9d15b22a7\transformed\lifecycle-runtime-release\res
+com.abhishek.em.app-lifecycle-viewmodel-ktx-2.9.1-33 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\a3a71468e440b0fb8863ee7a514955a3\transformed\lifecycle-viewmodel-ktx-2.9.1\res
+com.abhishek.em.app-navigation-common-release-34 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\a50ed5a796225968d570420ecce275e6\transformed\navigation-common-release\res
+com.abhishek.em.app-navigation-compose-release-35 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\a73b10623df219938c1ca55d94c3f88c\transformed\navigation-compose-release\res
+com.abhishek.em.app-savedstate-release-36 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\ab0b4367e5cdb7c8cbc4bc72a23c574c\transformed\savedstate-release\res
+com.abhishek.em.app-ui-unit-release-37 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\b1cdeaef0105d288dcc72a9fbb2c55fb\transformed\ui-unit-release\res
+com.abhishek.em.app-ui-tooling-preview-release-38 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\b2f32d2aca66bfd2c6e46d6f8e9ad76a\transformed\ui-tooling-preview-release\res
+com.abhishek.em.app-customview-poolingcontainer-1.0.0-39 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\b360ca73ec26f95c4b3b46edf301a27f\transformed\customview-poolingcontainer-1.0.0\res
+com.abhishek.em.app-lifecycle-livedata-2.9.1-40 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\b5680f3d77b8640a63165c4949397b3c\transformed\lifecycle-livedata-2.9.1\res
+com.abhishek.em.app-foundation-release-41 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\b781a15dee027310dda75c85a4b11102\transformed\foundation-release\res
+com.abhishek.em.app-graphics-path-1.0.1-42 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\bcb93f53fd7b07ea1a88fcda38dd3cb4\transformed\graphics-path-1.0.1\res
+com.abhishek.em.app-room-ktx-2.7.2-43 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\c700916e075ecdd9e9a0e226e98792fa\transformed\room-ktx-2.7.2\res
+com.abhishek.em.app-activity-ktx-1.10.1-44 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\cd7411eee80af8b42b00407ff9738765\transformed\activity-ktx-1.10.1\res
+com.abhishek.em.app-lifecycle-process-2.9.1-45 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\d5bba8432a4e20a98404b1a52d74cd8d\transformed\lifecycle-process-2.9.1\res
+com.abhishek.em.app-ui-text-release-46 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\d904820a57f125c274bbea263426c965\transformed\ui-text-release\res
+com.abhishek.em.app-annotation-experimental-1.4.1-47 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\dbb5c8ea5187eec2dc1a9d7adc8db8ad\transformed\annotation-experimental-1.4.1\res
+com.abhishek.em.app-tracing-1.2.0-48 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\dc39c817febe14ee12b51b29f0afa021\transformed\tracing-1.2.0\res
+com.abhishek.em.app-runtime-release-49 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\e072f94c17fe704a054bf40f5e5bef19\transformed\runtime-release\res
+com.abhishek.em.app-ui-geometry-release-50 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\e33ae61dd21dca13532cdfd012ce90f5\transformed\ui-geometry-release\res
+com.abhishek.em.app-startup-runtime-1.2.0-51 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\e39eea0d26c11b384de54135bec6e967\transformed\startup-runtime-1.2.0\res
+com.abhishek.em.app-hilt-navigation-compose-1.2.0-52 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\fb743965dae79394d6226e4cbba38770\transformed\hilt-navigation-compose-1.2.0\res
+com.abhishek.em.app-lifecycle-livedata-core-2.9.1-53 C:\Users\abhisheksoni\.gradle\caches\8.13\transforms\fd413ca4e3445dd02d59b0ea923420bf\transformed\lifecycle-livedata-core-2.9.1\res
+com.abhishek.em.app-pngs-54 D:\Android Projects\EM\app\build\generated\res\pngs\debug
+com.abhishek.em.app-resValues-55 D:\Android Projects\EM\app\build\generated\res\resValues\debug
+com.abhishek.em.app-packageDebugResources-56 D:\Android Projects\EM\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.abhishek.em.app-packageDebugResources-57 D:\Android Projects\EM\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.abhishek.em.app-debug-58 D:\Android Projects\EM\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.abhishek.em.app-debug-59 D:\Android Projects\EM\app\src\debug\res
+com.abhishek.em.app-main-60 D:\Android Projects\EM\app\src\main\res

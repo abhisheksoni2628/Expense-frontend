@@ -1,0 +1,30 @@
+# Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+/build
+/.caches
+
+# Keystore
+*.jks
+*.keystore
+*.key
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs & crash reports
+*.log
+captures/
+
+# Environment files
+.env
+
+# Others
+*.apk
+*.ap_
+*.aar
